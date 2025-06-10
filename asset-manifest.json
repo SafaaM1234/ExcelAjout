@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AjoutClientExel/static/css/main.30659f2c.css",
+    "main.js": "/AjoutClientExel/static/js/main.e8dd1133.js",
+    "static/js/453.4002f616.chunk.js": "/AjoutClientExel/static/js/453.4002f616.chunk.js",
+    "index.html": "/AjoutClientExel/index.html",
+    "main.30659f2c.css.map": "/AjoutClientExel/static/css/main.30659f2c.css.map",
+    "main.e8dd1133.js.map": "/AjoutClientExel/static/js/main.e8dd1133.js.map",
+    "453.4002f616.chunk.js.map": "/AjoutClientExel/static/js/453.4002f616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30659f2c.css",
+    "static/js/main.e8dd1133.js"
+  ]
+}
