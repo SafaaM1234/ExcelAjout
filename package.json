@@ -2,7 +2,7 @@
   "name": "gestion-clients",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SafaaM1234.github.io/AjoutClientExel",
+  "homepage": "https://SafaaM1234.github.io/ExcelAjout",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
